@@ -1,0 +1,86 @@
+.hlogo {
+    height: 60px; 
+}
+.logo {
+    width: 6.83rem;
+    height: 2.25rem;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+.temp {
+    margin: 14px 0px 0px 40px;
+}
+.htitulo {
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.tpag {
+    margin: 5px 0px 5px 30px;
+}
+.hcontenido {
+    height: calc(100vh - 100px);
+    background: #00d2ff;
+    background: -webkit-linear-gradient(to right, #928DAB, #00d2ff);
+    background: linear-gradient(to right, #928DAB, #00d2ff);
+    display: flex;
+    justify-content: center;
+}
+.box {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: -14px 10px 5px 0px rgba(0,0,0,0.6);
+}
+.boxg-info {
+    display: flex;
+    flex-direction: row;
+}
+.box-info1 {
+    width: 600px;
+    height: 350px;
+    padding: 30px;
+    border-right: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.box-info2 {
+    width: 600px;
+    height: 350px;
+    padding: 30px;
+    border-left: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.box-bot {
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+}
+.bot {
+    width: 100px;
+    margin: 0px 20px 6px 0px;
+}
+.box-che {
+    width: 300px;
+}
+.checked {
+    margin-top: 2rem;
+}
+.checked-di {
+    margin-top: 2rem;
+    font-size: 0.8rem;
+}
+#dina-spe, #dina-gtms {
+    margin-top: 1rem;
+}
+#q-m {
+    margin-left: 1rem;
+    font-size: 0.94rem;
+}
